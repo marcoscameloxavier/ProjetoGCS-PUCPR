@@ -3,5 +3,9 @@ public class Main {
 
         System.out.println("Projeto GCS!");
         System.out.println("Cadastro de usuários");
+
+        System.out.println("Nome: Marcos Xavier");
+        System.out.println("Endereço: Rua ABC");
+        System.out.println("CADASTRAR");
     }
 }
